@@ -1,0 +1,1 @@
+export { default as authenticateToken } from './authenticate.js'

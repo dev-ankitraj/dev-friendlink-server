@@ -1,0 +1,11 @@
+export { default as uiRoute } from './ui/ui.js'
+export { default as authRoute } from './auth/auth.js'
+export { default as emailRoute } from './auth/email.js'
+export { default as tempRoute } from './temp/temp.js'
+
+export { default as userRoute } from './common/user.js'
+export { default as postRoute } from './common/post.js'
+export { default as likeRoute } from './common/like.js'
+export { default as followRoute } from './common/follow.js'
+export { default as messageRoute } from './common/message.js'
+export { default as commentRoute } from './common/comment.js'
